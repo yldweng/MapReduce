@@ -1,5 +1,6 @@
 # MapReduce
-MapReduce based analytical operations over large text data within the Hadoop framework.
+A implementation of mapReduce based analytical operations over large text data within the Hadoop framework.
+
 Input and Data: a large text data set, which contains the complete edit history (allrevisions, all pages) of all Wikipedia since its inception till January 2008.”
 
 Your code will need the first line of each record, which consists of the following attributes:
